@@ -4,5 +4,7 @@
 
 Public notes from a Rocky Linux VPS (Google Cloud).
 
-e
+
+## Live
 - Simple nginx page on a Rocky Linux VPS (Google Cloud)
+- HTTP reachable from the internet (lab only, not a product)
